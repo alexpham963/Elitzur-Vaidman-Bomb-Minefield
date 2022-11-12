@@ -4,6 +4,8 @@ Hello! This is team Elixer Vitamin Boomers! Quantum Computing Project for the 20
 
 **Brought to you by: Nathan, Chris, and Alex**
 
+#### Video presentation of our Project: https://www.youtube.com/watch?v=p49tTKsIntY
+
 ## **PROJECT DESCRIPTION:**
 Our project is meant to demostrate a quantum thought experiment known as the Elitzur-Vaidman Bomb Detector but with a fun twist!
 Our project is a take on the classic game, Mine Sweeper, where the payer now has to use quantum computation to detect if the mines already revealed on the board are live or not.
